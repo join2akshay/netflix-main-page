@@ -1,1 +1,79 @@
 
+ody,html
+{
+    margin: 0px;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ffff;
+}
+*
+{
+    box-sizing: border-box;
+}
+header
+{
+   background: linear-gradient(to right, rgba(0,0,0,0.9),rbga(0,0,0,0.5));
+   background-image: url('image/back.jpg');
+  
+    height: 100vh;
+}
+
+header nav img
+{
+    width: 175px;
+    height: 80px;
+
+}
+
+.logo 
+{
+    margin-left: 25px;
+    
+}
+.btn
+{
+    color: #fff;
+    text-decoration: none;
+    background-color: #e50914;
+    float: right;
+    margin-top: 18px;
+    margin-right: 10px;
+    line-height: normal; 
+    padding: 7px 17px;
+    font-weight: 500;
+    border-radius: 5%;
+    font-size: 18px;
+}
+
+.pitch
+{
+    font-size: 1.8vw;
+    top:35%;
+    margin: 0 3%;
+    position: absolute;
+}
+
+.pitch h1{
+    font-size:3em;
+    font-weight: 700;
+    margin: 0 0 0.2em;
+}
+.btn1
+{
+    color: #fff;
+    background-color: #e50914;
+    font-size: 14px;
+    float: left;
+    line-height: normal;
+    margin: .5em .5em .5em 0;
+    padding: 12px 2em;
+    text-decoration: none;
+    cursor: pointer;
+    letter-spacing: 1.9px;
+    font-family: Arial, sans-serif;
+    user-select: none;
+    border-radius: 2px;
+    font-weight: 400;
+    vertical-align: middle;
+    border: 0px;
+}
