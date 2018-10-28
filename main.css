@@ -77,3 +77,17 @@ header nav img
     vertical-align: middle;
     border: 0px;
 }
+nav .btn:hover , section .btn1:hover
+{
+ background-color: #f40612;
+ 
+
+}
+
+#features > nav
+{
+    padding-top: 35px;
+    background-color: #141414;
+    border-bottom: 2px solid #3d3d3d;
+
+}
