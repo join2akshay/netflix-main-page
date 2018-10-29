@@ -91,3 +91,27 @@ nav .btn:hover , section .btn1:hover
     border-bottom: 2px solid #3d3d3d;
 
 }
+#features > nav a
+{
+    text-decoration: none;
+    text-align: center;
+    vertical-align: top;
+    font-weight: bold;
+    height: 125px;
+    color: #777;
+    line-height: 20px;
+}
+
+#features > nav a :hover
+{
+    color: white;
+}
+#features > nav a img
+{
+    height: 50px;
+}
+#features > nav a h2
+{
+    margin: 10px 0 0 ;
+    font-size: 1em;
+}
