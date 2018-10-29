@@ -14,3 +14,4 @@ $(function(){
     tabsContent.filter((i,tab)=>$(tab).data('id')===that.data('id')).addClass('is-selectd');
 
    });
+});
