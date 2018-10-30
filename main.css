@@ -115,3 +115,24 @@ nav .btn:hover , section .btn1:hover
     margin: 10px 0 0 ;
     font-size: 1em;
 }
+
+.columns
+{
+    display: flex;
+}
+.column
+{
+    display: box;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.center
+{
+    margin: 0 auto;
+}
+
+.size-80
+{
+    width: 80%;
+}
