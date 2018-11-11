@@ -180,3 +180,10 @@ footer > ul > li{
 
 }
 
+footer
+{
+    padding-top: 20px;
+    color:#999;
+    max-width: 1000px;
+    
+}
