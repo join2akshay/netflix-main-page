@@ -120,6 +120,10 @@ nav .btn:hover , section .btn1:hover
 {
     display: flex;
 }
+.columns.felx-wrap
+{
+    flex-wrap: wrap;
+}
 .column
 {
     display: box;
@@ -127,6 +131,14 @@ nav .btn:hover , section .btn1:hover
     flex-grow: 1;
     flex-shrink: 1;
 }
+
+.column.is-25
+{
+    flex:none;
+    width: 25%;
+
+}
+
 .center
 {
     margin: 0 auto;
